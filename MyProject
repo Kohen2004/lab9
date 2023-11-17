@@ -1,0 +1,3 @@
+PS-dmac>>cd MyProject
+PS-dmac>>git init
+initialized empty Git repository in C:/Users/user/MyProject/.git/
